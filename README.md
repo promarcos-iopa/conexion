@@ -1,1 +1,1 @@
-hola este es text informativo.
+hola este es txt informativo.
