@@ -1,5 +1,4 @@
 <?php
-//cometario agregado
 // Datos de conexión
 $host_origen = '192.168.1.18';
 $usuario_origen = 'boletas';
